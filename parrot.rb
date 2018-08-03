@@ -2,5 +2,5 @@
 def parrot(noise = "Squawk")
 end
 
-return 
+return parrrot
 # returns the phrase
